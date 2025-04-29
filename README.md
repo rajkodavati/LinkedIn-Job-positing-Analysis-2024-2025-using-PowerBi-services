@@ -8,7 +8,7 @@ This project presents a complete **LinkedIn Analytics Dashboard** built using **
 
 ## 📁 Source & Data Preparation
 
-- ✅ **Raw Data**: Exported from [LinkedIn](https://www.linkedin.com/settings/data-export-page) and **Kaggle** (to enrich engagement patterns, content types, or job-related metrics).
+- ✅ **Raw Data**: Exported from https://www.kaggle.com/datasets/arshkon/linkedin-job-postings and **Kaggle** (to enrich engagement patterns, content types, or job-related metrics).
 - ⚙️ **Data Merging & Cleaning**:
   - Python scripts were written in **VS Code** to load, clean, and merge multiple datasets:
     - LinkedIn profile data
